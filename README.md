@@ -36,9 +36,17 @@ This is a simple ML model uses [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%9
 
     - Windows:
 
-        ```batch
-        venv\Scripts\activate.bat
-        ```
+        - Command Prompt (Windows Batchfile):
+
+            ```batch
+            venv\Scripts\activate.bat
+            ```
+
+        - PowerShell:
+
+            ```batch
+            venv\Scripts\activate.ps1
+            ```
 
     - macOS/Linux:
 
