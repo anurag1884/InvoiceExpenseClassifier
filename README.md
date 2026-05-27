@@ -72,12 +72,20 @@ This is a simple ML model uses [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%9
 
     - Windows:
 
-        ```bash
-        venv\Scripts\deactivate.bat
-        ```
+        - Command Prompt (Windows Batchfile):
+
+            ```bash
+            venv\Scripts\deactivate.bat
+            ```
+
+        - PowerShell:
+
+            ```batch
+            deactivate
+            ```
 
     - macOS/Linux:
 
         ```bash
-        source venv/bin/deactivate
+        deactivate
         ```
