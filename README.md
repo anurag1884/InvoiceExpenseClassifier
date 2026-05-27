@@ -44,7 +44,7 @@ This is a simple ML model uses [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%9
 
         - PowerShell:
 
-            ```batch
+            ```pwsh
             venv\Scripts\activate.ps1
             ```
 
@@ -74,13 +74,13 @@ This is a simple ML model uses [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%9
 
         - Command Prompt (Windows Batchfile):
 
-            ```bash
+            ```batch
             venv\Scripts\deactivate.bat
             ```
 
         - PowerShell:
 
-            ```batch
+            ```pwsh
             deactivate
             ```
 
