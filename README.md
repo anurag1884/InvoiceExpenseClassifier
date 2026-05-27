@@ -8,6 +8,8 @@ This is a simple ML model uses [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%9
 - Travel
 - Inventory
 
+![Example usage](./example.jpeg)
+
 ## Dependencies:
 
 - Flask: For creating the web app that runs on the browser.
