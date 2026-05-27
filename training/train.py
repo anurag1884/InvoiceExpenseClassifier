@@ -13,7 +13,7 @@ df = pd.read_csv("./input/invoice_training_dataset_10000.csv")
 texts = df["Invoice Text"]
 labels = df["Category"]
 
-# Train the model on the train dataset
+# Train the model on the train dataset after performing preprocessing steps such as lowercasing and removing stop words
 model = Pipeline([
     ("tfidf", TfidfVectorizer(
         lowercase=True,
